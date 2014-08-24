@@ -3,7 +3,7 @@ library("plyr")
 
 # Important! Your working directory initially should be set to the data's location ("UCI HAR Dataset" directory)
 # For example:
-# setwd("/Users/dennis/github/datasciencecoursera/Getting data project/UCI HAR Dataset/")
+#setwd("/Users/dennis/github/datasciencecoursera/Getting data project/UCI HAR Dataset/")
 
 #load test data set
 subject_test <- read.table('./test/subject_test.txt')
